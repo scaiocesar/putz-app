@@ -1,10 +1,11 @@
 node_modules
+www
 .idea
 .tmp
-.temp
 .sass-cache
 app/bower_components
 coverage
+platforms
 plugins
 *.swp
 *.swo
